@@ -1,6 +1,6 @@
 # Rolox
 
-**Versão:** 1.0.0  
+**Versão:** 1.0.0.beta  
 **Criador Principal:** Roblox Official  
 **Publicador:** One Mapas Official  
 **Plataforma:** Windows  
